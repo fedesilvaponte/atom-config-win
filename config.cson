@@ -1,0 +1,25 @@
+'global':
+  'exception-reporting':
+    'userId': 'a190499c-5528-70ae-0bac-3f97fc780332'
+  'welcome':
+    'showOnStartup': false
+  'editor':
+    'showIndentGuide': true
+    'fontFamily': 'Consolas'
+    'tabLength': 4
+    'invisibles': {}
+    'fontSize': 15
+  'core':
+    'themes': [
+      'seti-ui'
+      'monokai'
+    ]
+    'disabledPackages': [
+      'symbol-gen'
+    ]
+  'metrics':
+    'userId': '1c0745ae5e2e6077fd5b820dbefc127820b5be51'
+  'linter-eslint':
+    'defaultEslintConfig': 'c:\\Users\\federico.ponte\\eslint.conf'
+  'linter':
+    'showAllErrorsInStatusBar': true

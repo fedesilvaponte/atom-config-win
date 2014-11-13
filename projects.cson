@@ -1,0 +1,10 @@
+'Galileo':
+  'title': 'Galileo'
+  'paths': [
+    'c:\\git\\Galileo-Web'
+  ]
+'mosaic':
+  'title': 'mosaic'
+  'paths': [
+    'c:\\git\\mosaic-web'
+  ]

@@ -1,0 +1,27 @@
+{
+  "name": "indentation-indicator",
+  "main": "./lib/indentation-indicator",
+  "version": "0.2.0",
+  "description": "Adds an indicator to the status bar that shows the indentation width and type of the active editor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lee-dohm/indentation-indicator"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "[![Build Status](https://travis-ci.org/lee-dohm/indentation-indicator.svg?branch=master)](https://travis-ci.org/lee-dohm/indentation-indicator)\n\n# Indentation Indicator\n\nAdds an indicator to the status bar that shows the indentation width and type of the active editor.\n\nActive editor with soft tabs enabled and two spaces:\n\n![Soft tabs and two spaces](https://raw.githubusercontent.com/lee-dohm/indentation-indicator/master/soft-tabs.png)\n\nActive editor with soft tabs disabled and four spaces:\n\n![Hard tabs and four spaces](https://raw.githubusercontent.com/lee-dohm/indentation-indicator/master/hard-tabs.png)\n\n## Configuration\n\n* `indentation-indicator.spaceAfterColon` &mdash; When set to `true`, places a space between the colon and the number of spaces per indentation level.\n\n## Styles\n\nThe indentation indicator can be styled using the following classes:\n\n* `.indentation-indicator` - For styling all instances of the indicator\n\nIt uses the following values from `ui-variables` as defaults in order to blend in to your theme:\n\n* `@text-color` - Color of the indicator text\n\n## Copyright\n\nCopyright &copy; [Lee Dohm](http://www.lee-dohm.com) and [Lifted Studios](http://www.liftedstudios.com). See [LICENSE](https://raw.githubusercontent.com/lee-dohm/indentation-indicator/master/LICENSE.md) for details.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/lee-dohm/indentation-indicator/issues"
+  },
+  "homepage": "https://github.com/lee-dohm/indentation-indicator",
+  "_id": "indentation-indicator@0.2.0",
+  "dist": {
+    "shasum": "67f4864f4488036afd1514d1acf3396636a0e4ef"
+  },
+  "_resolved": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-1141013-5760-14t55pq\\package.tgz",
+  "_from": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-1141013-5760-14t55pq\\package.tgz"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "open-last-project",
+  "main": "lib/open-last-project",
+  "version": "0.1.1",
+  "description": "An Atom.io package that automatically reopens the last project and files you were working on.",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielmahon/atom-open-last-project.git"
+  },
+  "homepage": "https://github.com/danielmahon/atom-open-last-project",
+  "bugs": {
+    "url": "https://github.com/danielmahon/atom-open-last-project/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-apm": "0.0.1",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-lesslint": "~1.0.0",
+    "grunt-verb": "^0.2.4",
+    "verb": "~0.2.6",
+    "chai": "~1.9.1",
+    "mocha": "*"
+  },
+  "author": {
+    "name": "Daniel Mahon",
+    "url": "https://github.com/danielmahon"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/danielmahon/open-last-project/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "docs",
+    "documentation",
+    "generate",
+    "generator",
+    "markdown",
+    "templates",
+    "verb"
+  ],
+  "readme": "# open-last-project\n\n> An Atom.io package that automatically reopens the last project and files you were working on.\n\n## Install\nYou can install **open-last-project** using the Preferences pane.\n\n## Todo\n+ Remove that pesky untitled file upon new window\n\n## Packages\nTry these awesome packages:\n+ [project-switcher](https://atom.io/packages/project-switcher)\n\n## Author\n\n**Daniel Mahon**\n \n+ [github/danielmahon](https://github.com/danielmahon)\n+ [twitter/danielmahon](http://twitter.com/danielmahon) \n\n## License\nCopyright (c) 2014 Daniel Mahon, contributors.  \nReleased under the MIT license\n\n***\n",
+  "readmeFilename": "README.md",
+  "_id": "open-last-project@0.1.1",
+  "dist": {
+    "shasum": "38f34c3bb2e7355f945cbc75a307a671dbc02137"
+  },
+  "_resolved": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114810-2428-1anygz2\\package.tgz",
+  "_from": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114810-2428-1anygz2\\package.tgz"
+}

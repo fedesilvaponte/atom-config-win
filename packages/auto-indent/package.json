@@ -1,0 +1,30 @@
+{
+  "name": "auto-indent",
+  "main": "./lib/auto-indent",
+  "version": "0.1.0",
+  "description": "This package will allow you to auto-indent your current file",
+  "activationEvents": [
+    "auto-indent:apply"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/auto-indent"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# auto-indent package\n\nThis package will allow you to auto-indent your current file. Use the auto-indent:apply command.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/atom/auto-indent/issues"
+  },
+  "homepage": "https://github.com/atom/auto-indent",
+  "_id": "auto-indent@0.1.0",
+  "dist": {
+    "shasum": "f4dfc5029ada5cf613ad1ca2e3a1ea38fb418896"
+  },
+  "_resolved": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114818-7652-1c93veo\\package.tgz",
+  "_from": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114818-7652-1c93veo\\package.tgz"
+}

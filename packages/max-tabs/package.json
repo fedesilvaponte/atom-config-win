@@ -1,0 +1,27 @@
+{
+  "name": "max-tabs",
+  "main": "./lib/max-tabs",
+  "version": "0.3.0",
+  "description": "Do not have more tabs than maxTabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klorenz/atom-max-tabs"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# max-tabs package\n\nI tend to leave tabs open, and editing many files, they pile up.  This package\ncloses oldest unvisited tabs. Keeping you at a defined maximum number of tabs.\n\nYou can configure maximum tab count.  If you have multiple panes, number of\ntabs is devided by number of panes.\n\nTODO:\n  check if panes are vertically or horizontally splitted and make maxTabs\n  number dependend on this.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/klorenz/atom-max-tabs/issues"
+  },
+  "homepage": "https://github.com/klorenz/atom-max-tabs",
+  "_id": "max-tabs@0.3.0",
+  "dist": {
+    "shasum": "f080ae5f2a9c7b30da6c769b698c5189b8d5fef4"
+  },
+  "_resolved": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114818-6908-1srwimz\\package.tgz",
+  "_from": "C:\\Users\\FEDERI~1.PON\\AppData\\Local\\Temp\\d-114818-6908-1srwimz\\package.tgz"
+}
